@@ -34,7 +34,8 @@ predictions.
 Step 6: Evaluate Model Performance
 Model performance is evaluated using several metrics:
 
-- Confusion Matrix**: This matrix shows the number of true positive, true negative, false 
+- Confusion Matrix**:
+- This matrix shows the number of true positive, true negative, false 
 positive, and false negative predictions. It helps understand how well the model is 
 distinguishing between the different classes.
 
